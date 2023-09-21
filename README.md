@@ -1,2 +1,1 @@
-# Oranges
 ## What are oranges?
