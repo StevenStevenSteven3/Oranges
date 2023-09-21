@@ -1,1 +1,2 @@
-## H2 What are oranges?
+## What are oranges?
+> They are a fruit.
