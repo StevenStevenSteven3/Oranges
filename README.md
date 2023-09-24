@@ -13,7 +13,7 @@ This website is where all starters about oranges should learn from. This website
 
 
 
-<gif src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqTgykxW836tWZmkFtbs6emo8xx4zo5oGzg&usqp=CAU)" width="400" height="790">
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqTgykxW836tWZmkFtbs6emo8xx4zo5oGzg&usqp=CAU)" width="400" height="790">
 
 
 
