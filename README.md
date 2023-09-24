@@ -17,7 +17,7 @@ This website is where all starters about oranges should learn from. This website
 
 
 ## Where do they come from?
-Oranges grow on trees
+Oranges grow on trees.
 
 ## What do I do with them?
-You can eat them, use them in recipes, give them to your friends, or make an orange necklace. 
+You can eat them, use them in recipes, or give them to your friends.
