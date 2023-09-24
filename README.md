@@ -13,7 +13,7 @@ This website is where all starters about oranges should learn from. This website
 
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqTgykxW836tWZmkFtbs6emo8xx4zo5oGzg&usqp=CAU.gif" width="200" height="200">
+<img src="https://media.tenor.com/AE6UKhMmmKgAAAAC/orange-fruit.gif" width="200" height="200">
 
 
 
