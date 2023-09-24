@@ -6,6 +6,7 @@ This website is where all starters about oranges should learn from. This website
 
 ## What do they look like on the outside?
 
+![Orange](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUGPaZWHto5jQoloGeskrvPXfIcjEnCFjEQ&usqp=CAU)
 
 ## What do they look like on the inside?
 **THIS IS WHAT THEY LOOK LIKE**
