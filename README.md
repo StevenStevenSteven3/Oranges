@@ -28,3 +28,4 @@ You can eat them, use them in recipes, or give them to your friends.
 
 ## [I want to learn more](https://en.wikipedia.org/wiki/Orange_(fruit))
 
+<img src="https://cdn.discordapp.com/attachments/984536739311931512/1155564228674064484/image.png" width="140" height="140" />
