@@ -13,7 +13,7 @@ This website is where all starters about oranges should learn from. This website
 
 
 
-![orange-fruit](https://github.com/StevenStevenSteven3/Oranges/assets/145698028/02c6ecfe-f39d-4651-8e1c-5a4d20545b2f | width=100 height =100)
+![orange-fruit](https://github.com/StevenStevenSteven3/Oranges/assets/145698028/02c6ecfe-f39d-4651-8e1c-5a4d20545b2f=250x250)
 
 
 ## Where do they grow on?
@@ -27,5 +27,5 @@ You can eat them, use them in recipes, or give them to your friends.
 
 
 
-## [I want to learn more](https://en.wikipedia.org/wiki/Orange_(fruit) | width=100 height =100)
+## [I want to learn more](https://en.wikipedia.org/wiki/Orange_(fruit))
 
