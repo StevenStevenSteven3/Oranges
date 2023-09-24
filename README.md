@@ -12,3 +12,8 @@ This website is where all starters about oranges should learn from. This website
 ![orange-fruit](https://github.com/StevenStevenSteven3/Oranges/assets/145698028/02c6ecfe-f39d-4651-8e1c-5a4d20545b2f)
 
 
+## Where do they come from?
+Oranges grow on trees
+
+## What do I do with them?
+You can eat them, use them in recipes, give them to your friends, or make an orange necklace. 
