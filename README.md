@@ -13,7 +13,7 @@ This website is where all starters about oranges should learn from. This website
 
 
 
-![orange-fruit](https://github.com/StevenStevenSteven3/Oranges/assets/145698028/02c6ecfe-f39d-4651-8e1c-5a4d20545b2f=50x50)
+![orange-fruit](https://github.com/StevenStevenSteven3/Oranges/assets/145698028/02c6ecfe-f39d-4651-8e1c-5a4d20545b2f =50x50)
 
 
 ## Where do they grow on?
