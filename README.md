@@ -13,7 +13,7 @@ This website is where all starters about oranges should learn from. This website
 
 
 
-![orange-fruit](https://github.com/StevenStevenSteven3/Oranges/assets/145698028/02c6ecfe-f39d-4651-8e1c-5a4d20545b2f)
+![orange-fruit](https://github.com/StevenStevenSteven3/Oranges/assets/145698028/02c6ecfe-f39d-4651-8e1c-5a4d20545b2f | width=100 height =100)
 
 
 ## Where do they grow on?
@@ -23,7 +23,7 @@ Oranges grow on trees.
 You can eat them, use them in recipes, or give them to your friends.
 
 
-## [What are their nutritional benefits?](https://www.webmd.com/food-recipes/health-benefits-oranges | width=100 height =100)
+## [What are their nutritional benefits?](https://www.webmd.com/food-recipes/health-benefits-oranges)
 
 
 
