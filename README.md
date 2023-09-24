@@ -12,7 +12,7 @@ This website is where all starters about oranges should learn from. This website
 **THIS IS WHAT THEY LOOK LIKE**
 
 
-<img src="https://media.tenor.com/AE6UKhMmmKgAAAAC/orange-fruit.gif" width="140" height="140" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="140" height="140" />
 
 
 ## Where do they grow on?
